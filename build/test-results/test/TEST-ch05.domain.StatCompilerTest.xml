@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch05.domain.StatCompilerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-14T14:52:22" hostname="imlmdvkartikm.local" time="0.003">
+  <properties/>
+  <testcase name="responsesByQuestionAnswersCountsByQuestionText" classname="ch05.domain.StatCompilerTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

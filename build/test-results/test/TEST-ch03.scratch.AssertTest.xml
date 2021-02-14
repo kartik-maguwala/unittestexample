@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ch03.scratch.AssertTest" tests="14" skipped="3" failures="0" errors="0" timestamp="2021-02-14T06:27:45" hostname="imlmdvkartikm.local" time="0.009">
+<testsuite name="ch03.scratch.AssertTest" tests="14" skipped="3" failures="0" errors="0" timestamp="2021-02-14T14:52:22" hostname="imlmdvkartikm.local" time="0.007">
   <properties/>
   <testcase name="testWithWorthlessAssertionComment" classname="ch03.scratch.AssertTest" time="0.0"/>
   <testcase name="comparesArraysFailing" classname="ch03.scratch.AssertTest" time="0.0">
@@ -7,7 +7,7 @@
   </testcase>
   <testcase name="readsFromTestFile" classname="ch03.scratch.AssertTest" time="0.001"/>
   <testcase name="comparesArraysPassing" classname="ch03.scratch.AssertTest" time="0.0"/>
-  <testcase name="variousMatcherTests" classname="ch03.scratch.AssertTest" time="0.004"/>
+  <testcase name="variousMatcherTests" classname="ch03.scratch.AssertTest" time="0.003"/>
   <testcase name="depositIncreasesBalance" classname="ch03.scratch.AssertTest" time="0.0"/>
   <testcase name="throwsWhenWithrowingTooMuch" classname="ch03.scratch.AssertTest" time="0.0"/>
   <testcase name="depositIncreasesBalance_hamcrestAssertTrue" classname="ch03.scratch.AssertTest" time="0.0"/>
@@ -16,7 +16,7 @@
   </testcase>
   <testcase name="throwsWhenWithdrawingTooMuchTry" classname="ch03.scratch.AssertTest" time="0.0"/>
   <testcase name="comparesCollectionsPassing" classname="ch03.scratch.AssertTest" time="0.0"/>
-  <testcase name="exceptionRule" classname="ch03.scratch.AssertTest" time="0.002"/>
+  <testcase name="exceptionRule" classname="ch03.scratch.AssertTest" time="0.001"/>
   <testcase name="assertFailure" classname="ch03.scratch.AssertTest" time="0.0">
     <skipped/>
   </testcase>
